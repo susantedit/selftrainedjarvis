@@ -1,0 +1,19 @@
+Hardware Philosophy
+
+Primary Motivation: Experimentation, personal amusement, and "trolling" friends through creative engineering.
+
+Focus Areas: Wireless communication manipulation (Wi-Fi/Bluetooth) and remote-controlled robotics.
+
+Core Components & Tools
+
+Microcontrollers: Proficient with Arduino and ESP32 platforms for logic and connectivity.
+
+Connectivity: Experienced in utilizing Wi-Fi and Bluetooth modules for project integration.
+
+Project History
+
+Signal Manipulation: Has developed Wi-Fi and Bluetooth jammers for experimental and "pranking" purposes.
+
+Robotics: Built custom RC cars, likely integrating Arduino/ESP32 for motor control and remote handling.
+
+Objective: Projects are built for fun, learning through play, and testing the limits of consumer hardware.

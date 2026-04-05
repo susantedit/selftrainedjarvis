@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+envjarvis/
+env/
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.pkg
+*.spec
+
+# Environment / secrets
+.env
+*.env
+
+# Database & user data (private)
+database/chats_data/
+database/vector_store/
+database/camera_captures/
+contacts.csv
+jarvis.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+Screenshots/
+images/
+engine/cookies.json
+engine/__pycache__/
+1.txt
